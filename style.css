@@ -72,7 +72,7 @@ footer p a:hover{color:green}
     }
     .theEnd p{font-size:20px; margin:-35px 0 0px 20px }
     section{display:block; margin:50px 0px 100px; width:325px !important}
-    .picture, .paragraph{width:50%; !important}
+    .picture, .paragraph{width:50% !important;}
     .paragraph{ margin:10px}
     .picture img{height:20px; width:50px; margin:2px !important}
     .paragraph h1 {font-size:30px; line-height:40px}
